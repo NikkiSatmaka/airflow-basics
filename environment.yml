@@ -1,0 +1,10 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - airflow
+  - pandas
