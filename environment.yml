@@ -6,5 +6,8 @@ channels:
 
 dependencies:
   - pip
+  - jupyter
   - airflow
+  - scikit-learn
   - pandas
+  - seaborn
